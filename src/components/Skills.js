@@ -37,6 +37,12 @@ function Skills() {
             src:'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png',
             skill:'Node Js',
             shadow: 'shadow-green-400'
+        },
+        {
+            id:7,
+            src:'https://cdn.icon-icons.com/icons2/2699/PNG/512/laravel_logo_icon_170314.png',
+            skill:'Laravel',
+            shadow: 'shadow-red-600'
         }
     ]
 
